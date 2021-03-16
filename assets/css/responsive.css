@@ -1,0 +1,729 @@
+
+@media (min-width: 992px) and (max-width: 1200px){
+  .header-area .top-bar ul li {
+    margin-left: 0;
+    font-size: 12px;
+  }
+  .header-area {
+    overflow: hidden;
+  }
+  .header-area .top-bar {
+    padding: 5px 70px 5px 0px;
+    left: -6%;
+    right: -9%;
+    margin-right: -8px;
+  }
+  .header-area .menu-area ul li a {
+    font-size: 15px;
+  }
+  .header-area::before {
+    background-size: cover;
+  }
+  .counting-area {
+    width: 74%;
+  }
+  .about-area .shape-1 {
+    left: 5%;
+  }
+  .about-area .about-text {
+    position: relative;
+    top: 0;
+  }
+  .single-blog .date {
+    width: 70px;
+    height: 70px;
+    top: 27%;
+  }
+  .single-blog .date span {
+    top: 13px;
+  }
+  ul.ins-area li a img {
+    width: 100%;
+  }
+  ul.ins-area li {
+      width: 30%;
+  }
+  .history-img.wow.fadeInLeft img {
+    width: 100%;
+  }
+  .single-team .overly {
+    height: 27%;
+  }
+  .single-team-details {
+    top: 0;
+  }
+  .vpop h5 {
+    left: 14%;
+  }
+  .course-area::before{
+    display: none;
+  }
+  .single-services-section .part-1 .text ul li {
+    font-size: 13px;
+  }
+  .category ul li a {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px)  {
+  .header-area .top-bar {
+    display: none;
+  }
+  .header-area .logo-area {
+    padding: 15px 0;
+  }
+  .header-area {
+    position: relative;
+    background-color: #ffffff;
+    height: 70px;
+    width: 70%;
+    box-shadow: none;
+  }
+  .header-area::before{
+    display: none;
+  }
+  .header-area::after {
+    display: none;
+  }
+  .mean-container .mean-bar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    float: left;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    top: 44px;
+  }
+  .mean-container a.meanmenu-reveal {
+    border: 1px solid #3d69eb;
+    color: #3d69eb;
+    right: 15px !important;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .mean-nav {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .read-more .read {
+    padding: 6px 20px 8px 15px !important;
+    width: 100% !important;
+    padding-left: 44px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+  }
+  .mean-container .read-more i {
+    left: 31%;
+    top: 0px;
+  }
+  .mean-container  .read-more:hover i {
+    left: 87%;
+  }
+  .menu-shrink{
+    display: none;
+  }
+  .counting-area{
+    width: 100%;
+  }
+  .about-area .shape-1{
+    display: none;
+  }
+  .about-img{
+    text-align: center;
+  }
+  .about-img img {
+    width: unset;
+  }
+  .about-area .about-text {
+    top: 0;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .achievement-section::before{
+    display: none;
+  }
+  .student-review-area {
+    margin-top: 50px;
+  }
+  .single-blog .date {
+    width: 70px;
+    height: 70px;
+    top: 30%;
+  }
+  .single-blog .date span {
+    top: 13px;
+  }
+  .course-area .course-slider ul.slick-dots {
+    position: relative;
+    bottom: -25%;
+  }
+  .about-section .about-img {
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    margin-top: 40px;
+  }
+  .about-section .about-img img{
+    width: 100%;
+  }
+  .history-text {
+    margin-top: 40px;
+  }
+  .history-img.wow.fadeInLeft {
+    text-align: center;
+  }
+  .contact-info::before {
+    width: 100%;
+    height: 2px;
+    bottom: -4px;
+    top: unset;
+  }
+  .contact-info {
+    padding: 0 0 20px;
+    margin-bottom: 40px;
+  }
+  .protfolio-area .shorting-menu-area button {
+    margin-bottom: 10px;
+  }
+  .single-team .overly {
+    height: 24%;
+  }
+  .single-service-right {
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 40px;
+  }
+  .team-img {
+    max-width: 400px;
+    margin: auto;
+  }
+  .single-team-details {
+    top: 0;
+    border-left: none;
+    padding-left: 0px;
+    margin-top: 40px;
+    text-align: center;
+  }
+  .skill-left h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #3d69eb;
+    margin-bottom: 30px;
+  }
+  .course-area::before{
+    display: none;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+  .header-area .top-bar {
+    display: none;
+  }
+  .header-area .logo-area {
+    padding: 15px 0;
+  }
+  .header-area {
+    position: relative;
+    background-color: #ffffff;
+    height: 70px;
+    width: 70%;
+    box-shadow: none;
+  }
+  .header-area::before{
+    display: none;
+  }
+  .header-area::after {
+    display: none;
+  }
+  .mean-container .mean-bar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    float: left;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    top: 44px;
+  }
+  .mean-container a.meanmenu-reveal {
+    border: 1px solid #3d69eb;
+    color: #3d69eb;
+    right: 15px !important;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .mean-nav {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .read-more .read {
+    padding: 6px 20px 8px 15px !important;
+    width: 100% !important;
+    padding-left: 44px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+  }
+  .mean-container .read-more i {
+    left: 31%;
+    top: 0px;
+  }
+  .mean-container  .read-more:hover i {
+    left: 87%;
+  }
+  .modern-slider .item .img-fill {
+    height: 500px;
+  }
+  .modern-slider .item .info > div {
+    top: 15%;
+  }
+  .slick-custom-arrow.slick-custom-arrow-right.slick-arrow {
+    top: unset;
+    font-size: 24px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    bottom: 10px;
+  }
+  .slick-custom-arrow.slick-custom-arrow-left.slick-arrow {
+    top: unset;
+    font-size: 24px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    bottom: 10px;
+  }
+  .counting-area {
+    width: 100%;
+    margin-left: auto;
+    box-shadow: none;
+    bottom: 0;
+    margin-bottom: 0px;
+  }
+  .counting-area .simple-shape {
+    display: none;
+  }
+  .about-area .shape-1 {
+    position: absolute;
+    top: 4px;
+    left: 10%;
+    display: none;
+  }
+  .about-area .about-text {
+    text-align: center;
+  }
+  .shape-4 img {
+    top: -1%;
+    width: 50px;
+  }
+  .menu-shrink {
+    display: none;
+  }
+  .section-title h2 {
+    font-size: 32px;
+  }
+  .achievement-section::before{
+    display: none;
+  }
+  .achievement-text.wow.fadeInUp {
+      text-align: center;
+  }
+  .vpop h5 {
+    left: 24%;
+  }
+  .student-review-area {
+    margin-top: 50px;
+  }
+  .student-review-area .testimonial {
+    padding: 0 15px 30px;
+    text-align: center;
+  }
+  .single-blog .date {
+    width: 70px;
+    height: 70px;
+    line-height: 10px;
+  }
+  .course-area::before{
+    display: none;
+  }
+  .achievement-section {
+    overflow: hidden;
+  }
+  .achievement-section .section-title {
+    margin-bottom: 30px;
+}
+  .course-area .course .text {
+    text-align: center;
+  }
+  .course-area .course {
+    padding: 12px;
+  }
+  .vpop h5 {
+    display: none;
+  }
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .course-area .course-slider ul.slick-dots {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    right: 0px !important;
+    left: 0;
+    bottom: -25%;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+  .counting-area::before{
+    display: none;
+  }
+  .counting-area ul li {
+    width: 47%;
+  }
+  .single-item {
+    max-width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .single-blog {
+    max-width: 330px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .about-text {
+    margin-bottom: 40px;
+  }
+  .history-text {
+    margin-top: 40px;
+  }
+  .contact-info::before {
+    width: 100%;
+    height: 2px;
+    bottom: -4px;
+    top: unset;
+  }
+  .contact-info {
+    padding: 0 0 20px;
+    margin-bottom: 40px;
+  }
+  .protfolio-area .shorting-menu-area button {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .protfolio-area .shorting-menu-area {
+    text-align: center;
+  }
+  .single-team {
+    position: relative;
+    margin-bottom: 30px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  .single-team .overly {
+    height: 26%;
+  }
+  .single-service-right {
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 40px;
+  }
+  .single-service-right {
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 40px;
+  }
+  .single-team-details {
+    top: 0;
+    border-left: none;
+    padding-left: 0px;
+    margin-top: 40px;
+    text-align: center;
+  }
+  .mail-area ul li {
+    margin-right: 0;
+    line-height: 40px;
+  }
+  .skill-left h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #3d69eb;
+    margin-bottom: 30px;
+  }
+  .login-area {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 576px){
+  .header-area .top-bar {
+    display: none;
+  }
+  .header-area .logo-area {
+    padding: 15px 0;
+  }
+  .header-area {
+    position: relative;
+    background-color: #ffffff;
+    height: 70px;
+    width: 70%;
+    box-shadow: none;
+  }
+  .header-area::before{
+    display: none;
+  }
+  .header-area::after {
+    display: none;
+  }
+  .mean-container .mean-bar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    float: left;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    top: 7%;
+    margin-top: 5px;
+  }
+  .mean-container a.meanmenu-reveal {
+    border: 1px solid #3d69eb;
+    color: #3d69eb;
+    right: 15px !important;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .mean-nav {
+    background: #3d69eb none repeat scroll 0 0;
+  }
+  .mean-container .read-more .read {
+    padding: 6px 20px 8px 15px !important;
+    width: 100% !important;
+    padding-left: 44px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+  }
+  .mean-container .read-more i {
+    left: 31%;
+    top: 0px;
+  }
+  .mean-container  .read-more:hover i {
+    left: 87%;
+  }
+  .modern-slider .item .img-fill .info h1 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .modern-slider .item .img-fill {
+    height: 500px;
+  }
+  .modern-slider .item .info > div {
+    top: 15%;
+  }
+  .slick-custom-arrow.slick-custom-arrow-right.slick-arrow {
+    top: unset;
+    font-size: 24px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    bottom: 10px;
+  }
+  .slick-custom-arrow.slick-custom-arrow-left.slick-arrow {
+    top: unset;
+    font-size: 24px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    bottom: 10px;
+  }
+  .counting-area {
+    width: 100%;
+    margin-left: auto;
+    box-shadow: none;
+    bottom: 0;
+    margin-bottom: 0px;
+  }
+  .counting-area .simple-shape {
+    display: none;
+  }
+  .about-area .shape-1 {
+    position: absolute;
+    top: 4px;
+    left: 10%;
+    display: none;
+  }
+  .about-area .about-text {
+    text-align: center;
+  }
+  .shape-4 img {
+    top: -1%;
+    width: 50px;
+  }
+  .menu-shrink {
+    display: none;
+  }
+  .section-title h2 {
+    font-size: 32px;
+  }
+  .achievement-section::before{
+    display: none;
+  }
+    .achievement-text.wow.fadeInUp {
+      text-align: center;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .vpop h5 {
+    left: 24%;
+  }
+  .student-review-area {
+    margin-top: 50px;
+  }
+  .student-review-area .testimonial {
+    padding: 0 15px 30px;
+    text-align: center;
+  }
+  .single-blog .date {
+    width: 70px;
+    height: 70px;
+    line-height: 10px;
+    top: 22%;
+  }
+  .course-area::before{
+    display: none;
+  }
+  .achievement-section {
+    overflow: hidden;
+  }
+  .course-area .course .text {
+    text-align: center;
+  }
+  .course-area .course {
+    padding: 12px;
+  }
+  .vpop h5 {
+    display: none;
+  }
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .course-area .course-slider ul.slick-dots {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    right: 0px !important;
+    left: 0;
+    bottom: -25%;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+  .counting-area::before{
+    display: none;
+  }
+  .about-section .about-text h2 span, .about-section .about-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .history-img.wow.fadeInLeft img {
+    width: 100%;
+  }
+  .history-text h2, .history-text h2 span {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .history-text {
+      margin-top: 40px;
+      text-align: center;
+  }
+  .about-text {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .contact-info::before {
+    width: 100%;
+    height: 2px;
+    bottom: -4px;
+    top: unset;
+  }
+  .contact-info {
+    padding: 0 0 20px;
+    margin-bottom: 40px;
+  }
+  .info-area ul li .icon {
+    position: relative;
+    margin: auto auto 15px;
+  }
+  .info-area .text {
+    margin-left: 0;
+    text-align: center;
+  }
+  .contact-from {
+    margin-left: 0;
+    text-align: center;
+  }
+  .inner-area .text h1 {
+    font-size: 32px;
+    text-transform: uppercase;
+  }
+  .title {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .single-item {
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .protfolio-area .shorting-menu-area button {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .protfolio-area .shorting-menu-area {
+    text-align: center;
+  }
+  .single-team {
+    position: relative;
+    margin-bottom: 30px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  .single-service-right {
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 40px;
+  }
+  .single-team-details {
+    top: 0;
+    border-left: none;
+    padding-left: 0px;
+    margin-top: 40px;
+    text-align: center;
+  }
+  .mail-area ul li {
+    margin-right: 0;
+    line-height: 40px;
+  }
+  .skill-left h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #3d69eb;
+    margin-bottom: 30px;
+  }
+  .login-area {
+    margin-bottom: 50px;
+    padding: 30px;
+  }
+  .login-area .title h2 {
+    font-size: 32px;
+  }
+  .counting-area ul li {
+    padding: 20px;
+  }
+}
